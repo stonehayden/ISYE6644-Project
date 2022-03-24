@@ -1,0 +1,9 @@
+strat1 = optimal blackjack strategy, per google
+strat2 = always double down 11, even on dealer's ace
+strat3 = hit on 17 if dealer showing 8+
+strat4 = always split 10's (google says never to do this, let's see)
+strat5 = always split pair (probably dumb)
+strat6 = akways doubledown pair (definitely dumb)
+
+
+
